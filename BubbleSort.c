@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 int main() {
-	int a[7];
-	int l;
+	const int l;
 	printf("Enter length of array: ");
 	scanf("%d", &l);
 	printf("\n");
-	int i, j;
+	int i, j, a[l];
 	printf("Enter elements of array:\n");
 	for (i = 0; i < l; i++) {
 		scanf("%d", &a[i]);
