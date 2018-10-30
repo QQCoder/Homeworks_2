@@ -1,2 +1,2 @@
-# Homeworks_2
-Homeworks on C
+# Homeworks 2
+Homeworks on C++
